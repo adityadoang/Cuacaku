@@ -1,0 +1,11 @@
+{
+    "name": "CuacaKu",
+    "short_name": "CuacaKu",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#5B9DF8",
+    "theme_color": "#5B9DF8",
+    "description": "Aplikasi Prakiraan Cuaca Flutter dengan MVVM, Hive, dan Open-Meteo API.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false
+}
