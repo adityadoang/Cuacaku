@@ -123,3 +123,5 @@ Penyimpanan lokal menggunakan **`hive`** dan **`hive_flutter`** dengan manual `L
 
 ## Screenshot Aplikasi
 
+<img width="623" height="876" alt="image" src="https://github.com/user-attachments/assets/bfc3b008-9d94-48da-8d45-afe40a8e5dbb" />
+<img width="601" height="871" alt="image" src="https://github.com/user-attachments/assets/e749ffcb-0f4c-42ad-a345-c2363b1dc0fe" />
